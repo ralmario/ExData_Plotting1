@@ -1,3 +1,5 @@
+(Check the *Assignment Notes* section for details about on my project.)
+
 ## Introduction
 
 This assignment uses data from
@@ -110,5 +112,11 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png)
+
+
+## Assignment Notes:
+
+There are four (4) PNG files (**plot1.png**, **plot2.png**, **plot3.png**, **plot4.png**) and four (4) R code files (**plot1.R**, **plot2.R**, **plot3.R**, **plot4.R**), a total of eight files are present. This repository also includes a **README.md** and **check.R**. Please ignore check.R as it is not *really* part of the assignment, just a couple of commands that downloads the *household\_power\_consumption.txt* if it is missing.
+ 
 
